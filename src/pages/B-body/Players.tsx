@@ -1,4 +1,4 @@
-const Agenda = () => {
+const Players = () => {
 
     return (
         <div>
@@ -7,4 +7,4 @@ const Agenda = () => {
     );
 };
 
-export default Agenda;
+export default Players;
